@@ -1,5 +1,4 @@
-
-## GUI# Java Swing Calculator
+# Java Swing Calculator
 
 This is a simple calculator application built using Java Swing. The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It also logs operations to a file.
 
